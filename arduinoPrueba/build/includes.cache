@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\CASTRONICS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\CASTRONICS\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\CASTRONICS\\Desktop\\arduinoPrueba\\build\\sketch\\arduinoPrueba.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
